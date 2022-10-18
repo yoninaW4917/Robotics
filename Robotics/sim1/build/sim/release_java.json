@@ -1,0 +1,21 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project sim1)",
+    "extensions": [
+      {
+        "name": "Sim DriverStation",
+        "libName": "/Users/yanglimin/Desktop/编程/Simulator/Simulator/sim1/build/jni/release/libhalsim_ds_socket.dylib",
+        "defaultEnabled": false
+      },
+      {
+        "name": "Sim GUI",
+        "libName": "/Users/yanglimin/Desktop/编程/Simulator/Simulator/sim1/build/jni/release/libhalsim_gui.dylib",
+        "defaultEnabled": true
+      }
+    ],
+    "environment": {},
+    "libraryDir": "/Users/yanglimin/Desktop/编程/Simulator/Simulator/sim1/build/jni/release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
